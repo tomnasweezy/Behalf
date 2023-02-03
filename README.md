@@ -9,4 +9,5 @@ A Landing Page that was created to help us validate the idea with some potential
 
 
 
-![Behalf](https://user-images.githubusercontent.com/16877555/216625137-4ce2b4cf-1029-47e9-845c-ae2f32d983ed.png)
+
+![Behalf](https://user-images.githubusercontent.com/16877555/216625352-300cdc39-9208-4414-bb29-4b0f51913ef9.png)
